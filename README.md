@@ -47,17 +47,6 @@ const Page = React.forwardRef((props, ref) => {
         </div>
     );
 });
-
-function MyBook(props) {
-    return (
-        <HTMLFlipBook width={300} height={500}>
-            <Page number="1">Page text</Page>
-            <Page number="2">Page text</Page>
-            <Page number="3">Page text</Page>
-            <Page number="4">Page text</Page>
-        </HTMLFlipBook>
-    );
-}
 ```
 
 ### Props
