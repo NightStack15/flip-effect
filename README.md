@@ -9,16 +9,6 @@ Simple React.js wrapper for StPageFlip library, for creating realistic and beaut
 
 ![](video.gif)
 
-### Features of StPageFlip
-
--   Works with simple images on canvas and complex HTML blocks
--   Has simple API and flexible configuration
--   Compatible with mobile devices
--   Supports landscape and portrait screen mode
--   Supports soft and hard page types (only in HTML mode)
--   No dependencies
-
-
 ### Installation
 
 You can install the latest version using npm:
